@@ -1,0 +1,2 @@
+- handle permissions management
+- installation: deno, just
