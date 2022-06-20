@@ -6,13 +6,14 @@ dev:
     @deno run --allow-all --watch --import-map=maps.json src/main.ts
 
 build:
-    echo 'This is a build recipe.'
+    # handle build job
+    @deno compile --allow-all --import-map=maps.json src/main.ts
 
 run:
     echo 'This is a run recipe.'
 
 test:
-    # @deno test
+    @deno test
 
 
 fmt:

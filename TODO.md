@@ -1,2 +1,4 @@
 - handle permissions management
+- handle build
+- testing
 - installation: deno, just
