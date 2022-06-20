@@ -67,7 +67,7 @@ It should support / be:
 
 ```
 
-### Things to take car of
+### Things to take care of
 - Deno Setup, with handling env, permissions, dependencies, and so on
 - Redis, RabbitMQ, as Message Brokers
 - Redis as Cache
@@ -95,7 +95,7 @@ It should support / be:
 - Error Handling
 - Implement a File Class Entity for uploaded content, it should be extendable for the reuse, and declarative
 
-### Examles of what it should look like
+### Examples of what it should look like
 
 ```ts
 // entrypoint.ts, or main.ts
