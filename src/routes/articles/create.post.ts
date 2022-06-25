@@ -31,7 +31,6 @@ export default route
 //     .handle(async cx => {
 //         await cx.upload('/path/filename.dat', new File())
 //         await cx.mail('xyz@gmail.com', 'hello world')
-
 //         return {
 //             hello: 'world'
 //         }

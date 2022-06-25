@@ -5,6 +5,8 @@
         "http/": "https://deno.land/std@0.144.0/http/",
         "path": "https://deno.land/std@0.144.0/path/mod.ts",
         "files": "https://deno.land/x/getfiles@v1.0.0/mod.ts",
+        "jwt": "https://deno.land/x/djwt@v2.2/mod.ts",
+        "validate": "https://denoporter.sirjosh.workers.dev/v1/deno.land/x/computed_types/src/index.ts",
         "db": "https://deno.land/x/denodb@v1.0.40/db/mod.ts",
         "testing/": "https://deno.land/std@0.144.0/testing/",
         "dawn/": "./src/dawn/"

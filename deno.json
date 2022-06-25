@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+      "strictPropertyInitialization": false,
       "allowJs": true,
       "lib": ["deno.window"],
       "strict": true
