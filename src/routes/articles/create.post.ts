@@ -1,6 +1,6 @@
 import { post } from 'dawn/index.ts'
 
-const route = post('/nigga')
+const route = post('/hello-world')
   .useAbsolutePath()
   .handle(() => {
     return {
